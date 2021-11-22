@@ -1,0 +1,2 @@
+Hello!
+It is the basic exercise for XMLHttpRequest Object.

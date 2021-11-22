@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<favoritesongs>
+    <album id="1001">
+        <number>1</number>
+        <title>Hey Jude</title>
+        <artist>Beatles</artist>
+        <country>England</country>
+        <genre>Boygroup</genre>
+        <year>1968</year>
+    </album>
+    <album id="1002">
+        <number>2</number>
+        <title>A Day in the Life</title>
+        <artist>Beatles</artist>
+        <country>England</country>
+        <genre>Boygroup</genre>
+        <year>1967</year>
+    </album>
+    <album id="1003">
+        <number>3</number>    
+        <title>Let It Be</title>
+        <artist>Beatles</artist>
+        <country>England</country>
+        <genre>Boygroup</genre>
+        <year>1970</year>
+    </album>
+    <album id="1004">
+        <number>4</number>  
+        <title>Here Comes the Sun</title>
+        <artist>Beatles</artist>
+        <country>England</country>
+        <genre>Boygroup</genre>
+        <year>1969</year>
+    </album>
+    <album id="1005">
+        <number>5</number>  
+        <title>Yesterday</title>
+        <artist>Beatles</artist>
+        <country>England</country>
+        <genre>Boygroup</genre>
+        <year>1965</year>
+    </album>
+    <album id="1006">
+        <number>6</number>  
+        <title>Dancing Queen</title>
+        <artist>Abba</artist>
+        <country>Sweden</country>
+        <genre>Pop Group</genre>
+        <year>1976</year>
+    </album>
+    <album id="1007">
+        <number>7</number>  
+        <title>Mamma Mia</title>
+        <artist>Abba</artist>
+        <country>Sweden</country>
+        <genre>Pop Group</genre>
+        <year>1977</year>
+    </album>
+    <album id="1008">
+        <number>8</number> 
+        <title>The Winner Takes It All</title>
+        <artist>ABBA</artist>
+        <country>Sweden</country>
+        <genre>Pop Group</genre>
+        <year>1980</year>
+    </album>
+    <album id="1009">
+        <number>9</number> 
+        <title>Waterloo</title>
+        <artist>ABBA</artist>
+        <country>Sweden</country>
+        <genre>Pop Group</genre>
+        <year>1974</year>
+    </album>
+    <album id="1010">
+        <number>10</number> 
+        <title>SOS</title>
+        <artist>ABBA</artist>
+        <country>Sweden</country>
+        <genre>Pop Group</genre>
+        <year>1975</year>
+    </album>
+    <album id="1011">
+        <number>11</number> 
+        <title>Spring Day</title>
+        <artist>BTS</artist>
+        <country>Korea</country>
+        <genre>Boygroup</genre>
+        <year>2016</year>
+    </album>
+    <album id="1012">
+        <number>12</number> 
+        <title>Dynamite</title>
+        <artist>BTS</artist>
+        <country>Korea</country>
+        <genre>Boygroup</genre>
+        <year>2020</year>
+    </album>
+    <album id="1013">
+        <number>13</number> 
+        <title>On</title>
+        <artist>BTS</artist>
+        <country>Korea</country>
+        <genre>Boygroup</genre>
+        <year>2020</year>
+    </album>
+    <album id="1014">
+        <number>14</number> 
+        <title>Blood, Sweat and Tears</title>
+        <artist>BTS</artist>
+        <country>Korea</country>
+        <genre>Boygroup</genre>
+        <year>2016</year>
+    </album>
+    <album id="1015">
+        <number>15</number> 
+        <title>Butter</title>
+        <artist>BTS</artist>
+        <country>Korea</country>
+        <genre>Boygroup</genre>
+        <year>2021</year>
+    </album>
+    <album id="1016">
+        <number>16</number> 
+        <title>Ice Cream</title>
+        <artist>BLACKPINK</artist>
+        <country>Korea</country>
+        <genre>Girl</genre>
+        <year>2020</year>
+    </album>
+    <album id="1017">
+        <number>17</number> 
+        <title>How You Like That</title>
+        <artist>BLACKPINK</artist>
+        <country>Korea</country>
+        <genre>Girl</genre>
+        <year>2020</year>
+    </album>
+    <album id="1018">
+        <number>18</number> 
+        <title>What A Wonderful World</title>
+        <artist>Louis Armstrong</artist>
+        <country>USA</country>
+        <genre>man</genre>
+        <year>1967</year>
+    </album>
+    <album id="1019">
+        <number>19</number> 
+        <title>Gangnam Style</title>
+        <artist>PSY</artist>
+        <country>Korea</country>
+        <genre>man</genre>
+        <year>2012</year>
+    </album>
+    <album id="1020">
+        <number>20</number> 
+        <title>Suspicious Minds</title>
+        <artist>Elvis Presley</artist>
+        <country>USA</country>
+        <genre>man</genre>
+        <year>1969</year>
+    </album>
+</favoritesongs>
